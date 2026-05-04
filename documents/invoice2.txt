@@ -1,0 +1,10 @@
+FREIGHT INVOICE #5678
+Shipper: Delta Electronics, Austin TX
+Receiver: Metro Warehouse, San Antonio TX
+Weight: 12,000 lbs
+Rate: $1,200.00
+Pickup Date: May 6, 2026
+Delivery Date: May 7, 2026
+Carrier: Eagle Transport
+Load Type: FTL
+Special Instructions: Temperature sensitive, keep below 70F

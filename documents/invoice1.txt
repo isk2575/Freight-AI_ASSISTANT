@@ -1,0 +1,10 @@
+FREIGHT INVOICE #1234
+Shipper: ABC Manufacturing, Houston TX
+Receiver: XYZ Distribution, Dallas TX
+Weight: 5,400 lbs
+Rate: $850.00
+Pickup Date: May 5, 2026
+Delivery Date: May 6, 2026
+Carrier: Swift Logistics
+Load Type: LTL
+Special Instructions: Fragile equipment, handle with care

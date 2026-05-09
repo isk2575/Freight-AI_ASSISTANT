@@ -1,4 +1,4 @@
-#  Freight Flex AI Assistant
+#  Freight AI Assistant
 
 An AI-powered freight and logistics assistant built with Claude API, RAG, and Gradio.
 
